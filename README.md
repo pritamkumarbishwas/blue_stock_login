@@ -2,6 +2,11 @@
 
 This project is a responsive login page that uses various external libraries and custom styles. It includes a form for user login with validation, and uses Bootstrap, Font Awesome, Google Fonts, and custom CSS and JavaScript files.
 
+ ## Demo :
+    ```sh
+    You can view a live demo of the project at https://blue-stock-login.vercel.app.
+    ```
+
 ## Table of Contents
 
 - [Installation](#installation)
