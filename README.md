@@ -5,16 +5,6 @@ This project is a responsive login page that uses various external libraries and
  ## Demo :
    - You can view a live demo of the project at # https://blue-stock-login.vercel.app.
   
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Folder Structure](#folder-structure)
-- [Features](#features)
-- [License](#license)
-
 ## Installation
 
 To get a local copy up and running, follow these simple steps:
