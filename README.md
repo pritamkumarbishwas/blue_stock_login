@@ -17,11 +17,11 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/pritamkumarbishwas/blue_stock_login.git
     ```
 2. Open the project directory:
     ```sh
-    cd your-repo-name
+    cd blue_stock_login
     ```
 3. Open the `index.html` file in your browser to view the login page.
 
