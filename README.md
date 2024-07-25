@@ -42,7 +42,7 @@ This project relies on the following external libraries and resources:
 ## Folder Structure
 
 ```plaintext
-your-repo-name/
+blue_stock_login/
 ├── css/
 │   ├── animate.css
 │   ├── bootstrap.min.css
